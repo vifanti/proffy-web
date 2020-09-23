@@ -36,7 +36,15 @@
         "tsx": "never"
       }
     ],
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "react/prop-types": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/jsx-curly-newline": "off",
+    "camelcase": "off",
+    "react/jsx-no-target-blank": "off",
+    "react/jsx-one-expression-per-line": "of",
+    "react/jsx-no-comment-textnodes": "off"
   },
   "settings": {
     "import/resolver": {
